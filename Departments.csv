@@ -1,0 +1,156 @@
+Patient ID,Age,Gender,Symptoms,"Vital Signs (BP, HR)","Lab Reports (WBC, RBC)",Imaging Results,"Lifestyle (Smoking, Alcohol)",Symptom Duration,Symptom Severity,Department
+1,45,M,"Chest pain, Shortness of breath","140/90, 85","10,000, 5 million",Normal X-ray,"Yes, No",2 days,Severe,Cardiology
+2,30,F,"Headache, Nausea","120/80, 70","7,000, 4.5 million",Normal MRI,"No, Yes",1 week,Moderate,Neurology
+3,60,M,"Fever, Cough","130/85, 90","12,000, 4.8 million",Abnormal Chest X-ray,"No, No",5 days,Mild,Pulmonology
+4,25,F,"Abdominal pain, Vomiting","110/70, 75","8,000, 4.7 million",Normal Ultrasound,"No, No",3 days,Severe,Gastroenterology
+5,50,M,"Joint pain, Swelling","135/88, 80","9,500, 4.9 million",Normal X-ray,"Yes, Yes",2 weeks,Moderate,Rheumatology
+6,35,F,"Dizziness, Fatigue","125/80, 72","8,500, 4.6 million",Normal MRI,"No, No",1 day,Mild,Neurology
+7,40,M,"Chest tightness, Palpitations","145/95, 88","11,000, 5.2 million",Normal ECG,"Yes, No",4 days,Severe,Cardiology
+8,28,F,"Severe headache, Blurred vision","115/75, 68","6,500, 4.4 million",Normal CT scan,"No, No",2 weeks,Severe,Neurology
+9,55,M,"Persistent cough, Weight loss","135/85, 82","13,000, 4.9 million",Abnormal Chest X-ray,"Yes, Yes",3 weeks,Severe,Pulmonology
+10,48,F,"Nausea, Abdominal bloating","120/80, 70","7,500, 4.6 million",Normal Ultrasound,"No, No",5 days,Moderate,Gastroenterology
+11,65,M,"Shortness of breath, Fatigue","150/95, 90","11,500, 5.1 million",Abnormal ECG,"Yes, Yes",1 week,Severe,Cardiology
+12,32,F,"Severe headache, Dizziness","110/70, 65","6,800, 4.3 million",Normal MRI,"No, No",3 days,Severe,Neurology
+13,70,M,"Persistent cough, Chest pain","140/85, 88","13,500, 4.7 million",Abnormal Chest X-ray,"Yes, No",2 weeks,Severe,Pulmonology
+14,29,F,"Abdominal pain, Diarrhea","115/75, 72","7,200, 4.5 million",Normal Ultrasound,"No, Yes",4 days,Moderate,Gastroenterology
+15,55,M,"Joint pain, Stiffness","130/80, 78","9,000, 4.8 million",Normal X-ray,"Yes, Yes",1 month,Severe,Rheumatology
+16,38,F,"Dizziness, Nausea","120/75, 70","8,200, 4.6 million",Normal MRI,"No, No",2 days,Mild,Neurology
+17,47,M,"Chest pain, Palpitations","145/90, 85","10,500, 5.0 million",Normal ECG,"Yes, No",3 days,Severe,Cardiology
+18,26,F,"Severe headache, Vomiting","115/70, 68","6,700, 4.4 million",Normal CT scan,"No, No",1 week,Severe,Neurology
+19,62,M,"Persistent cough, Fever","135/85, 80","12,800, 4.9 million",Abnormal Chest X-ray,"Yes, Yes",2 weeks,Severe,Pulmonology
+20,50,F,"Nausea, Abdominal pain","120/80, 70","7,600, 4.6 million",Normal Ultrasound,"No, No",5 days,Moderate,Gastroenterology
+21,34,F,"Skin rash, Itching","120/80, 75","6,500, 4.5 million",Normal Skin Biopsy,"No, No",1 week,Moderate,Dermatology
+22,50,M,"Hearing loss, Ear pain","130/85, 80","7,000, 4.8 million",Normal Audiogram,"Yes, Yes",3 days,Severe,ENT
+23,28,F,"Frequent urination, Painful urination","115/75, 70","8,000, 4.6 million",Normal Ultrasound,"No, No",2 days,Moderate,Urology
+24,45,M,"Persistent cough, Blood in sputum","140/90, 85","12,500, 4.9 million",Abnormal Chest X-ray,"Yes, Yes",1 week,Severe,Pulmonology
+25,60,F,"Joint pain, Morning stiffness","125/80, 78","9,200, 4.7 million",Normal X-ray,"No, No",1 month,Severe,Rheumatology
+26,35,M,"Anxiety, Insomnia","120/75, 72","7,500, 4.6 million",Normal MRI,"Yes, Yes",2 weeks,Moderate,Psychiatry
+27,40,F,"Blurred vision, Eye pain","130/80, 75","6,800, 4.5 million",Normal Eye Exam,"No, No",3 days,Severe,Ophthalmology
+28,55,M,"Abdominal pain, Jaundice","135/85, 82","11,000, 4.8 million",Abnormal Ultrasound,"Yes, Yes",1 week,Severe,Gastroenterology
+29,48,F,"Fatigue, Weight loss","125/80, 70","10,500, 4.9 million",Normal CT scan,"No, No",2 weeks,Moderate,Oncology
+30,65,M,"Back pain, Leg numbness","140/85, 80","8,500, 4.7 million",Abnormal MRI,"Yes, Yes",1 month,Severe,Orthopaedics
+31,29,M,"Skin rash, Itching","120/80, 75","6,500, 4.5 million",Normal Skin Biopsy,"No, No",1 week,Moderate,Dermatology
+32,50,F,"Hearing loss, Ear pain","130/85, 80","7,000, 4.8 million",Normal Audiogram,"Yes, Yes",3 days,Severe,ENT
+33,28,M,"Frequent urination, Painful urination","115/75, 70","8,000, 4.6 million",Normal Ultrasound,"No, No",2 days,Moderate,Urology
+34,45,F,"Persistent cough, Blood in sputum","140/90, 85","12,500, 4.9 million",Abnormal Chest X-ray,"Yes, Yes",1 week,Severe,Pulmonology
+35,60,M,"Joint pain, Morning stiffness","125/80, 78","9,200, 4.7 million",Normal X-ray,"No, No",1 month,Severe,Rheumatology
+36,35,F,"Anxiety, Insomnia","120/75, 72","7,500, 4.6 million",Normal MRI,"Yes, Yes",2 weeks,Moderate,Psychiatry
+37,40,M,"Blurred vision, Eye pain","130/80, 75","6,800, 4.5 million",Normal Eye Exam,"No, No",3 days,Severe,Ophthalmology
+38,55,F,"Abdominal pain, Jaundice","135/85, 82","11,000, 4.8 million",Abnormal Ultrasound,"Yes, Yes",1 week,Severe,Gastroenterology
+39,48,M,"Fatigue, Weight loss","125/80, 70","10,500, 4.9 million",Normal CT scan,"No, No",2 weeks,Moderate,Oncology
+40,37,F,"Skin rash, Redness","120/80, 75","6,700, 4.5 million",Normal Skin Biopsy,"No, No",1 week,Moderate,Dermatology
+41,52,M,"Hearing loss, Tinnitus","130/85, 80","7,200, 4.8 million",Normal Audiogram,"Yes, Yes",3 days,Severe,ENT
+42,31,F,"Frequent urination, Lower back pain","115/75, 70","8,100, 4.6 million",Normal Ultrasound,"No, No",2 days,Moderate,Urology
+43,47,M,"Persistent cough, Wheezing","140/90, 85","12,600, 4.9 million",Abnormal Chest X-ray,"Yes, Yes",1 week,Severe,Pulmonology
+44,63,F,"Joint pain, Swelling","125/80, 78","9,300, 4.7 million",Normal X-ray,"No, No",1 month,Severe,Rheumatology
+45,36,M,"Anxiety, Panic attacks","120/75, 72","7,600, 4.6 million",Normal MRI,"Yes, Yes",2 weeks,Moderate,Psychiatry
+46,42,F,"Blurred vision, Eye redness","130/80, 75","6,900, 4.5 million",Normal Eye Exam,"No, No",3 days,Severe,Ophthalmology
+47,58,M,"Abdominal pain, Nausea","135/85, 82","11,100, 4.8 million",Abnormal Ultrasound,"Yes, Yes",1 week,Severe,Gastroenterology
+48,49,F,"Fatigue, Night sweats","125/80, 70","10,600, 4.9 million",Normal CT scan,"No, No",2 weeks,Moderate,Oncology
+49,67,M,"Back pain, Sciatica","140/85, 80","8,600, 4.7 million",Abnormal MRI,"Yes, Yes",1 month,Severe,Orthopaedics
+50,39,F,"Skin rash, Blisters","120/80, 75","6,900, 4.5 million",Normal Skin Biopsy,"No, No",1 week,Moderate,Dermatology
+51,54,M,"Hearing loss, Ear discharge","130/85, 80","7,300, 4.8 million",Normal Audiogram,"Yes, Yes",3 days,Severe,ENT
+52,33,F,"Frequent urination, Blood in urine","115/75, 70","8,200, 4.6 million",Normal Ultrasound,"No, No",2 days,Moderate,Urology
+53,49,M,"Persistent cough, Chest tightness","140/90, 85","12,700, 4.9 million",Abnormal Chest X-ray,"Yes, Yes",1 week,Severe,Pulmonology
+54,61,F,"Joint pain, Fatigue","125/80, 78","9,400, 4.7 million",Normal X-ray,"No, No",1 month,Severe,Rheumatology
+55,37,M,"Anxiety, Depression","120/75, 72","7,700, 4.6 million",Normal MRI,"Yes, Yes",2 weeks,Moderate,Psychiatry
+56,43,F,"Blurred vision, Eye strain","130/80, 75","7,000, 4.5 million",Normal Eye Exam,"No, No",3 days,Severe,Ophthalmology
+57,59,M,"Abdominal pain, Vomiting","135/85, 82","11,200, 4.8 million",Abnormal Ultrasound,"Yes, Yes",1 week,Severe,Gastroenterology
+58,50,F,"Fatigue, Unexplained weight loss","125/80, 70","10,700, 4.9 million",Normal CT scan,"No, No",2 weeks,Moderate,Oncology
+59,68,M,"Back pain, Numbness in legs","140/85, 80","8,700, 4.7 million",Abnormal MRI,"Yes, Yes",1 month,Severe,Orthopaedics
+60,41,F,"Skin rash, Swelling","120/80, 75","6,800, 4.5 million",Normal Skin Biopsy,"No, No",1 week,Moderate,Dermatology
+61,53,M,"Hearing loss, Dizziness","130/85, 80","7,400, 4.8 million",Normal Audiogram,"Yes, Yes",3 days,Severe,ENT
+62,34,F,"Frequent urination, Painful urination","115/75, 70","8,300, 4.6 million",Normal Ultrasound,"No, No",2 days,Moderate,Urology
+63,48,M,"Persistent cough, Shortness of breath","140/90, 85","12,800, 4.9 million",Abnormal Chest X-ray,"Yes, Yes",1 week,Severe,Pulmonology
+64,62,F,"Joint pain, Stiffness","125/80, 78","9,500, 4.7 million",Normal X-ray,"No, No",1 month,Severe,Rheumatology
+65,40,M,"Skin rash, Itching","120/80, 75","6,600, 4.5 million",Normal Skin Biopsy,"No, No",1 week,Moderate,Dermatology
+66,55,F,"Hearing loss, Ear pain","130/85, 80","7,100, 4.8 million",Normal Audiogram,"Yes, Yes",3 days,Severe,ENT
+67,29,M,"Frequent urination, Painful urination","115/75, 70","8,100, 4.6 million",Normal Ultrasound,"No, No",2 days,Moderate,Urology
+68,50,F,"Persistent cough, Blood in sputum","140/90, 85","12,600, 4.9 million",Abnormal Chest X-ray,"Yes, Yes",1 week,Severe,Pulmonology
+69,63,M,"Joint pain, Morning stiffness","125/80, 78","9,300, 4.7 million",Normal X-ray,"No, No",1 month,Severe,Rheumatology
+70,36,F,"Anxiety, Insomnia","120/75, 72","7,600, 4.6 million",Normal MRI,"Yes, Yes",2 weeks,Moderate,Psychiatry
+71,42,M,"Blurred vision, Eye pain","130/80, 75","6,900, 4.5 million",Normal Eye Exam,"No, No",3 days,Severe,Ophthalmology
+72,58,F,"Abdominal pain, Jaundice","135/85, 82","11,200, 4.8 million",Abnormal Ultrasound,"Yes, Yes",1 week,Severe,Gastroenterology
+73,49,M,"Fatigue, Weight loss","125/80, 70","10,700, 4.9 million",Normal CT scan,"No, No",2 weeks,Moderate,Oncology
+74,41,M,"Skin rash, Redness","120/80, 75","6,800, 4.5 million",Normal Skin Biopsy,"No, No",1 week,Moderate,Dermatology
+75,53,F,"Hearing loss, Tinnitus","130/85, 80","7,400, 4.8 million",Normal Audiogram,"Yes, Yes",3 days,Severe,ENT
+76,34,M,"Frequent urination, Lower back pain","115/75, 70","8,300, 4.6 million",Normal Ultrasound,"No, No",2 days,Moderate,Urology
+77,48,F,"Persistent cough, Chest tightness","140/90, 85","12,800, 4.9 million",Abnormal Chest X-ray,"Yes, Yes",1 week,Severe,Pulmonology
+78,62,M,"Joint pain, Fatigue","125/80, 78","9,500, 4.7 million",Normal X-ray,"No, No",1 month,Severe,Rheumatology
+79,45,F,"Skin rash, Blisters","120/80, 75","6,900, 4.5 million",Normal Skin Biopsy,"No, No",1 week,Moderate,Dermatology
+80,54,M,"Hearing loss, Ear discharge","130/85, 80","7,300, 4.8 million",Normal Audiogram,"Yes, Yes",3 days,Severe,ENT
+81,33,F,"Frequent urination, Blood in urine","115/75, 70","8,200, 4.6 million",Normal Ultrasound,"No, No",2 days,Moderate,Urology
+82,49,M,"Persistent cough, Chest tightness","140/90, 85","12,700, 4.9 million",Abnormal Chest X-ray,"Yes, Yes",1 week,Severe,Pulmonology
+83,61,F,"Joint pain, Fatigue","125/80, 78","9,400, 4.7 million",Normal X-ray,"No, No",1 month,Severe,Rheumatology
+84,37,M,"Anxiety, Depression","120/75, 72","7,700, 4.6 million",Normal MRI,"Yes, Yes",2 weeks,Moderate,Psychiatry
+85,43,F,"Blurred vision, Eye strain","130/80, 75","7,000, 4.5 million",Normal Eye Exam,"No, No",3 days,Severe,Ophthalmology
+86,59,M,"Abdominal pain, Vomiting","135/85, 82","11,200, 4.8 million",Abnormal Ultrasound,"Yes, Yes",1 week,Severe,Gastroenterology
+87,50,F,"Fatigue, Unexplained weight loss","125/80, 70","10,700, 4.9 million",Normal CT scan,"No, No",2 weeks,Moderate,Oncology
+88,41,F,"Skin rash, Swelling","120/80, 75","6,800, 4.5 million",Normal Skin Biopsy,"No, No",1 week,Moderate,Dermatology
+89,53,M,"Hearing loss, Dizziness","130/85, 80","7,400, 4.8 million",Normal Audiogram,"Yes, Yes",3 days,Severe,ENT
+90,34,F,"Frequent urination, Painful urination","115/75, 70","8,300, 4.6 million",Normal Ultrasound,"No, No",2 days,Moderate,Urology
+91,48,M,"Persistent cough, Shortness of breath","140/90, 85","12,800, 4.9 million",Abnormal Chest X-ray,"Yes, Yes",1 week,Severe,Pulmonology
+92,62,F,"Joint pain, Stiffness","125/80, 78","9,500, 4.7 million",Normal X-ray,"No, No",1 month,Severe,Rheumatology
+93,40,M,"Skin rash, Itching","120/80, 75","6,600, 4.5 million",Normal Skin Biopsy,"No, No",1 week,Moderate,Dermatology
+94,55,F,"Hearing loss, Ear pain","130/85, 80","7,100, 4.8 million",Normal Audiogram,"Yes, Yes",3 days,Severe,ENT
+95,29,M,"Frequent urination, Painful urination","115/75, 70","8,100, 4.6 million",Normal Ultrasound,"No, No",2 days,Moderate,Urology
+96,50,F,"Persistent cough, Blood in sputum","140/90, 85","12,600, 4.9 million",Abnormal Chest X-ray,"Yes, Yes",1 week,Severe,Pulmonology
+97,63,M,"Joint pain, Morning stiffness","125/80, 78","9,300, 4.7 million",Normal X-ray,"No, No",1 month,Severe,Rheumatology
+98,45,F,"Skin rash, Blisters","120/80, 75","6,900, 4.5 million",Normal Skin Biopsy,"No, No",1 week,Moderate,Dermatology
+99,54,M,"Hearing loss, Ear discharge","130/85, 80","7,300, 4.8 million",Normal Audiogram,"Yes, Yes",3 days,Severe,ENT
+100,33,F,"Frequent urination, Blood in urine","115/75, 70","8,200, 4.6 million",Normal Ultrasound,"No, No",2 days,Moderate,Urology
+101,49,M,"Persistent cough, Chest tightness","140/90, 85","12,700, 4.9 million",Abnormal Chest X-ray,"Yes, Yes",1 week,Severe,Pulmonology
+102,61,F,"Joint pain, Fatigue","125/80, 78","9,400, 4.7 million",Normal X-ray,"No, No",1 month,Severe,Rheumatology
+103,37,M,"Anxiety, Depression","120/75, 72","7,700, 4.6 million",Normal MRI,"Yes, Yes",2 weeks,Moderate,Psychiatry
+104,43,F,"Blurred vision, Eye strain","130/80, 75","7,000, 4.5 million",Normal Eye Exam,"No, No",3 days,Severe,Ophthalmology
+105,59,M,"Abdominal pain, Vomiting","135/85, 82","11,200, 4.8 million",Abnormal Ultrasound,"Yes, Yes",1 week,Severe,Gastroenterology
+106,50,F,"Fatigue, Unexplained weight loss","125/80, 70","10,700, 4.9 million",Normal CT scan,"No, No",2 weeks,Moderate,Oncology
+107,68,M,"Back pain, Numbness in legs","140/85, 80","8,700, 4.7 million",Abnormal MRI,"Yes, Yes",1 month,Severe,Orthopaedics
+108,41,F,"Skin rash, Swelling","120/80, 75","6,800, 4.5 million",Normal Skin Biopsy,"No, No",1 week,Moderate,Dermatology
+109,53,M,"Hearing loss, Dizziness","130/85, 80","7,400, 4.8 million",Normal Audiogram,"Yes, Yes",3 days,Severe,ENT
+110,34,F,"Frequent urination, Painful urination","115/75, 70","8,300, 4.6 million",Normal Ultrasound,"No, No",2 days,Moderate,Urology
+111,48,M,"Persistent cough, Shortness of breath","140/90, 85","12,800, 4.9 million",Abnormal Chest X-ray,"Yes, Yes",1 week,Severe,Pulmonology
+112,62,F,"Joint pain, Stiffness","125/80, 78","9,500, 4.7 million",Normal X-ray,"No, No",1 month,Severe,Rheumatology
+113,40,M,"Skin rash, Itching","120/80, 75","6,600, 4.5 million",Normal Skin Biopsy,"No, No",1 week,Moderate,Dermatology
+114,55,F,"Hearing loss, Ear pain","130/85, 80","7,100, 4.8 million",Normal Audiogram,"Yes, Yes",3 days,Severe,ENT
+115,29,M,"Frequent urination, Painful urination","115/75, 70","8,100, 4.6 million",Normal Ultrasound,"No, No",2 days,Moderate,Urology
+116,50,F,"Persistent cough, Blood in sputum","140/90, 85","12,600, 4.9 million",Abnormal Chest X-ray,"Yes, Yes",1 week,Severe,Pulmonology
+117,63,M,"Joint pain, Morning stiffness","125/80, 78","9,300, 4.7 million",Normal X-ray,"No, No",1 month,Severe,Rheumatology
+118,47,M,"Skin rash, Itching","120/80, 75","6,600, 4.5 million",Normal Skin Biopsy,"No, No",1 week,Moderate,Dermatology
+119,56,F,"Hearing loss, Ear pain","130/85, 80","7,100, 4.8 million",Normal Audiogram,"Yes, Yes",3 days,Severe,ENT
+120,30,M,"Frequent urination, Painful urination","115/75, 70","8,100, 4.6 million",Normal Ultrasound,"No, No",2 days,Moderate,Urology
+121,51,F,"Persistent cough, Blood in sputum","140/90, 85","12,600, 4.9 million",Abnormal Chest X-ray,"Yes, Yes",1 week,Severe,Pulmonology
+122,64,M,"Joint pain, Morning stiffness","125/80, 78","9,300, 4.7 million",Normal X-ray,"No, No",1 month,Severe,Rheumatology
+123,38,F,"Anxiety, Insomnia","120/75, 72","7,600, 4.6 million",Normal MRI,"Yes, Yes",2 weeks,Moderate,Psychiatry
+124,44,M,"Blurred vision, Eye pain","130/80, 75","6,900, 4.5 million",Normal Eye Exam,"No, No",3 days,Severe,Ophthalmology
+125,59,F,"Abdominal pain, Jaundice","135/85, 82","11,200, 4.8 million",Abnormal Ultrasound,"Yes, Yes",1 week,Severe,Gastroenterology
+126,50,M,"Fatigue, Weight loss","125/80, 70","10,700, 4.9 million",Normal CT scan,"No, No",2 weeks,Moderate,Oncology
+127,42,M,"Skin rash, Redness","120/80, 75","6,800, 4.5 million",Normal Skin Biopsy,"No, No",1 week,Moderate,Dermatology
+128,54,F,"Hearing loss, Tinnitus","130/85, 80","7,400, 4.8 million",Normal Audiogram,"Yes, Yes",3 days,Severe,ENT
+129,35,M,"Frequent urination, Lower back pain","115/75, 70","8,300, 4.6 million",Normal Ultrasound,"No, No",2 days,Moderate,Urology
+130,49,F,"Persistent cough, Chest tightness","140/90, 85","12,800, 4.9 million",Abnormal Chest X-ray,"Yes, Yes",1 week,Severe,Pulmonology
+131,63,M,"Joint pain, Fatigue","125/80, 78","9,500, 4.7 million",Normal X-ray,"No, No",1 month,Severe,Rheumatology
+132,41,F,"Skin rash, Swelling","120/80, 75","6,800, 4.5 million",Normal Skin Biopsy,"No, No",1 week,Moderate,Dermatology
+133,53,M,"Hearing loss, Dizziness","130/85, 80","7,400, 4.8 million",Normal Audiogram,"Yes, Yes",3 days,Severe,ENT
+134,34,F,"Frequent urination, Painful urination","115/75, 70","8,300, 4.6 million",Normal Ultrasound,"No, No",2 days,Moderate,Urology
+135,48,M,"Persistent cough, Shortness of breath","140/90, 85","12,800, 4.9 million",Abnormal Chest X-ray,"Yes, Yes",1 week,Severe,Pulmonology
+136,62,F,"Joint pain, Stiffness","125/80, 78","9,500, 4.7 million",Normal X-ray,"No, No",1 month,Severe,Rheumatology
+137,40,M,"Skin rash, Itching","120/80, 75","6,600, 4.5 million",Normal Skin Biopsy,"No, No",1 week,Moderate,Dermatology
+138,55,F,"Hearing loss, Ear pain","130/85, 80","7,100, 4.8 million",Normal Audiogram,"Yes, Yes",3 days,Severe,ENT
+139,29,M,"Frequent urination, Painful urination","115/75, 70","8,100, 4.6 million",Normal Ultrasound,"No, No",2 days,Moderate,Urology
+140,50,F,"Persistent cough, Blood in sputum","140/90, 85","12,600, 4.9 million",Abnormal Chest X-ray,"Yes, Yes",1 week,Severe,Pulmonology
+141,64,M,"Joint pain, Morning stiffness","125/80, 78","9,300, 4.7 million",Normal X-ray,"No, No",1 month,Severe,Rheumatology
+142,38,F,"Anxiety, Insomnia","120/75, 72","7,600, 4.6 million",Normal MRI,"Yes, Yes",2 weeks,Moderate,Psychiatry
+143,44,M,"Blurred vision, Eye pain","130/80, 75","6,900, 4.5 million",Normal Eye Exam,"No, No",3 days,Severe,Ophthalmology
+144,59,F,"Abdominal pain, Jaundice","135/85, 82","11,200, 4.8 million",Abnormal Ultrasound,"Yes, Yes",1 week,Severe,Gastroenterology
+145,50,M,"Fatigue, Weight loss","125/80, 70","10,700, 4.9 million",Normal CT scan,"No, No",2 weeks,Moderate,Oncology
+146,46,F,"Skin rash, Blisters","120/80, 75","6,900, 4.5 million",Normal Skin Biopsy,"No, No",1 week,Moderate,Dermatology
+147,55,M,"Hearing loss, Ear discharge","130/85, 80","7,300, 4.8 million",Normal Audiogram,"Yes, Yes",3 days,Severe,ENT
+148,32,F,"Frequent urination, Blood in urine","115/75, 70","8,200, 4.6 million",Normal Ultrasound,"No, No",2 days,Moderate,Urology
+149,48,M,"Persistent cough, Chest tightness","140/90, 85","12,700, 4.9 million",Abnormal Chest X-ray,"Yes, Yes",1 week,Severe,Pulmonology
+150,60,F,"Joint pain, Fatigue","125/80, 78","9,400, 4.7 million",Normal X-ray,"No, No",1 month,Severe,Rheumatology
+151,36,M,"Anxiety, Depression","120/75, 72","7,700, 4.6 million",Normal MRI,"Yes, Yes",2 weeks,Moderate,Psychiatry
+152,42,F,"Blurred vision, Eye strain","130/80, 75","7,000, 4.5 million",Normal Eye Exam,"No, No",3 days,Severe,Ophthalmology
+153,58,M,"Abdominal pain, Vomiting","135/85, 82","11,200, 4.8 million",Abnormal Ultrasound,"Yes, Yes",1 week,Severe,Gastroenterology
+154,49,F,"Fatigue, Unexplained weight loss","125/80, 70","10,700, 4.9 million",Normal CT scan,"No, No",2 weeks,Moderate,Oncology
+160,67,M,"Back pain, Numbness in legs","140/85, 80","8,700, 4.7 million",Abnormal MRI,"Yes, Yes",1 month,Moderate,Orthopaedics

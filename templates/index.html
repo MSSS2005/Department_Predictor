@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Department Prediction</title>
+    </head>
+
+<body style="background: #000;"></body>
+   <div class="login">
+
+   <h1 style="color: violet;">Department Prediction </h1>
+
+   <form action = "{{ url_for('predict')}}"method="post">
+    <input type="text" name="Age" placeholder="Enter the age" required="required" /><br>
+    <input type="text" name="Symptoms" placeholder="Enter the symptoms" required="required" /><br>
+    <input type="text" name="Imaging Results" placeholder="Enter the Imaging Results" required="required" /><br>
+    <input type="text" name="Symptom Duration" placeholder="Enter the Symptom Duration" required="required" /><br>
+    <input type="text" name="BP" placeholder="Enter the BP" required="required" /><br>
+    <input type="text" name="HR" placeholder="Enter the HR" required="required" /><br>
+    <input type="text" name="WBC" placeholder="Enter the WBC" required="required" /><p>
+        <button type ="submit" class="btn btn-primary btn-block btn-large">Department</button></p>
+    
+   </form>
+
+   <br>
+   <br>
+   <h4 style="color:Violet;">
+    {{  prediction_text  }}  
+   </h4>
+
+   </div>
+</body>   
+</html>
+
+
